@@ -55,8 +55,8 @@ I'm a **Full-Stack & AI Developer** focused on building intelligent mobile and w
 ---
 
 ### 📫 How to reach me
-- **LinkedIn**: [Your LinkedIn Link Here]
-- **Email**: [Your Email Here]
+- **Portfolio**: [https://sites.google.com/view/fatimaportfolio0/home]
+- **Email**: [Fatimafht3gmail.com]
 
 ---
 *“Coding is not just about solving problems, it's about creating possibilities.”*
