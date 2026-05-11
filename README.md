@@ -1,17 +1,15 @@
 ### 👋 Hi there, I'm Fatima!
 
-I'm a **Full-Stack & AI Developer** focused on building intelligent mobile and web applications. I love bridging the gap between high-performance UI and complex backend data systems.
+I'm a passionate **Flutter & AI Developer** focused on building intelligent mobile applications and data-driven solutions. I love bridging the gap between mobile UX and Artificial Intelligence.
 
 ---
 
 ### 🛠 My Tech Stack
 
-#### 📱 Mobile & 🌐 Web Development
+#### 📱 Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 #### 🤖 AI & Data Science
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -20,21 +18,17 @@ I'm a **Full-Stack & AI Developer** focused on building intelligent mobile and w
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-#### 💾 Backend & Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/mysql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+#### ☁️ Backend & Tools
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-#### 🛠 Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### 🧠 Featured Projects
-- 🚀 **AI Expense Categorizer**: Automatically sorting expenses using NLP and Flutter.
-- 📊 **Predictive Analytics**: Using Jupyter Notebooks to forecast trends based on SQL/MongoDB datasets.
-- 🌐 **Responsive Web Portfolios**: Modern, fast-loading sites built with HTML, CSS, and JS.
+### 🧠 Featured AI Projects
+- 🚀 **AI Expense Categorizer**: Automatically sorting expenses using Natural Language Processing.
+- 📊 **Predictive Spending Analytics**: Using Jupyter Notebooks to forecast monthly budgets based on historical data.
+- 🤖 **Computer Vision Integrations**: Implementing real-time object detection within Flutter apps.
 
 ---
 
@@ -45,10 +39,6 @@ I'm a **Full-Stack & AI Developer** focused on building intelligent mobile and w
 </p>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatima16191&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatima16191&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
@@ -56,7 +46,7 @@ I'm a **Full-Stack & AI Developer** focused on building intelligent mobile and w
 
 ### 📫 How to reach me
 - **LinkedIn**: [Your LinkedIn Link Here]
-- **Email**: [Your Email Here]
+- **Portfolio**: [Your Portfolio Link Here]
 
 ---
 *“Coding is not just about solving problems, it's about creating possibilities.”*
