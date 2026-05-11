@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Fatima!
 
-I'm a **Full-Stack & AI Developer** passionate about building intelligent, cross-platform applications. I specialize in bridging the gap between sleek Mobile/Web UI and powerful Backend/AI systems.
+I'm a **Full-Stack & AI Developer** focused on building intelligent mobile and web applications. I love bridging the gap between high-performance UI and complex backend data systems.
 
 ---
 
@@ -18,22 +18,23 @@ I'm a **Full-Stack & AI Developer** passionate about building intelligent, cross
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 #### 💾 Backend & Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/mysql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-#### ⚙️ Tools
+#### 🛠 Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ### 🧠 Featured Projects
-- 🚀 **Full-Stack Expense Tracker**: A Flutter app with Firebase Auth and real-time data sync.
-- 📊 **AI Spending Predictor**: Python-based ML model built in Jupyter to analyze financial habits.
-- 🌐 **Responsive Web Portfolios**: Built with modern HTML, CSS, and JS.
+- 🚀 **AI Expense Categorizer**: Automatically sorting expenses using NLP and Flutter.
+- 📊 **Predictive Analytics**: Using Jupyter Notebooks to forecast trends based on SQL/MongoDB datasets.
+- 🌐 **Responsive Web Portfolios**: Modern, fast-loading sites built with HTML, CSS, and JS.
 
 ---
 
@@ -47,11 +48,15 @@ I'm a **Full-Stack & AI Developer** passionate about building intelligent, cross
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatima16191&layout=compact&theme=tokyonight" />
 </p>
 
----
-
-### 📫 Connect with me
-- **LinkedIn**: [Link Here]
-- **Email**: [Email Here]
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fatima16191&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
-*“Turning complex problems into elegant, code-based solutions.”*
+
+### 📫 How to reach me
+- **LinkedIn**: [Your LinkedIn Link Here]
+- **Email**: [Your Email Here]
+
+---
+*“Coding is not just about solving problems, it's about creating possibilities.”*
